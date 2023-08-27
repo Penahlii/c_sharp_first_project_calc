@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\c_sharp_first_project\c_sharp_first_project\bin\Debug\net5.0\c_sharp_first_project.exe
+C:\Users\asus\source\repos\c_sharp_first_project\c_sharp_first_project\bin\Debug\net5.0\c_sharp_first_project.deps.json
+C:\Users\asus\source\repos\c_sharp_first_project\c_sharp_first_project\bin\Debug\net5.0\c_sharp_first_project.runtimeconfig.json
+C:\Users\asus\source\repos\c_sharp_first_project\c_sharp_first_project\bin\Debug\net5.0\c_sharp_first_project.runtimeconfig.dev.json
+C:\Users\asus\source\repos\c_sharp_first_project\c_sharp_first_project\bin\Debug\net5.0\c_sharp_first_project.dll
+C:\Users\asus\source\repos\c_sharp_first_project\c_sharp_first_project\bin\Debug\net5.0\c_sharp_first_project.pdb
+C:\Users\asus\source\repos\c_sharp_first_project\c_sharp_first_project\obj\Debug\net5.0\c_sharp_first_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\c_sharp_first_project\c_sharp_first_project\obj\Debug\net5.0\c_sharp_first_project.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\c_sharp_first_project\c_sharp_first_project\obj\Debug\net5.0\c_sharp_first_project.AssemblyInfo.cs
+C:\Users\asus\source\repos\c_sharp_first_project\c_sharp_first_project\obj\Debug\net5.0\c_sharp_first_project.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\c_sharp_first_project\c_sharp_first_project\obj\Debug\net5.0\c_sharp_first_project.dll
+C:\Users\asus\source\repos\c_sharp_first_project\c_sharp_first_project\obj\Debug\net5.0\refint\c_sharp_first_project.dll
+C:\Users\asus\source\repos\c_sharp_first_project\c_sharp_first_project\obj\Debug\net5.0\c_sharp_first_project.pdb
+C:\Users\asus\source\repos\c_sharp_first_project\c_sharp_first_project\obj\Debug\net5.0\c_sharp_first_project.genruntimeconfig.cache
+C:\Users\asus\source\repos\c_sharp_first_project\c_sharp_first_project\obj\Debug\net5.0\ref\c_sharp_first_project.dll
